@@ -1,0 +1,17 @@
+body{
+  background-color: #ffefa0;
+  border-style: solid;
+  text-align: center;
+}
+
+
+h1{
+  text-decoration: underline;
+  text-align: center;
+}
+
+div{
+  align-items: right;
+  align-items: center;
+  align-items: left;
+}
